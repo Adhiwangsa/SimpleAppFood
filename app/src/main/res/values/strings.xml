@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MenuMakanan</string>
+
+    <string name="nasiuduk">hidangan yang dibuat dari nasi putih yang diaron dan dikukus</string>
+
+
+    <string name="nasigoreng">satu kuliner ikonik dari Semarang  </string>
+
+
+    <string name="lontongsayur">Lontong Sayur + Sayur</string>
+
+    <string name="harganasiuduk">20.000</string>
+    <string name="harganasigoreng">35.000</string>
+    <string name="hargalontong">15.000</string>
+</resources>
